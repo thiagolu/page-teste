@@ -1,0 +1,6 @@
+{
+  "name": "Page-teste",
+  "tagline": "Teste for page organization",
+  "body": "# Hello World!\r\n## Teams page\r\n\r\n#### Teams responsibilities\r\n\r\n * Product Owner\r\n * TecLeader\r\n * Rollbar Gardian\r\n * Suport Leader\r\n\r\n***\r\n### Teams directories & Links\r\n\r\n#### Main Folder:\r\n\r\n[Pasta pudim](https://drive.google.com/drive/u/1/folders/0B3YFZ-hIM1VafkxOOW1XVHUyeHU2bTdOYnVhcEhlaGl3VldFc1F2VjJMZ3UyN2xQYXRTZDg)\r\n\r\n\r\n#### Sub Folders\r\n\r\n - Material de estudo\r\n - Migração da especialização blogs\r\n - Pesquisa e Design\r\n - Produto\r\n - Releases\r\n - Suporte\r\n\r\n\r\n#### Extra Material\r\n\r\n - Seminarios\r\n - Escala Suporte\r\n - Onboarding Pudim\r\n\r\n\r\n***\r\n\r\n\r\n### Features\r\n\r\n - Social Post\r\n - Social Monitoring\r\n - KeY WOrds\r\n  .\r\n  .\r\n  .\r\n  .\r\n  .\r\n\r\n\r\n\r\n\r\n***\r\n\r\n\r\n\r\n### MicroServices\r\n\r\n - IAmLook\r\n - ....\r\n\r\n\r\n***\r\n\r\n### Agenda de Seminários\r\n\r\nRender Seminarios gist\r\n\r\n\r\n\r\n***\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
